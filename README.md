@@ -55,7 +55,7 @@ pip install Flask
 ## 🔗 Links
 - ** 🔹 Python Official Website   :—** <https://www.python.org/>
 - ** 🔹 Vosk Official Website     :—** <https://alphacephei.com/vosk/>
-- ** 🔹 Vosk All Models Download  :—** <https://alphacephei.com/vosk/models/>
+- ** 🔹 Vosk All Models Download  :—** <https://alphacephei.com/vosk/models/https://alphacephei.com/vosk/models>
 - ** 🔹 Vosk Model Indian Version :—** <https://alphacephei.com/vosk/models/vosk-model-en-in-0.5.zip>
 - ** 🔹 SoundDevice Documentation :—** <https://python-sounddevice.readthedocs.io/](https://pypi.org/project/sounddevice/>
 - ** 🔹 Queue Documentation       :—** <https://python-sounddevice.readthedocs.io/](https://pypi.org/project/sounddevice/](https://www.askpython.com/python-modules/python-queue>
