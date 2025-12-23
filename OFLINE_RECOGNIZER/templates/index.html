@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Offline Recognizer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 50px;
+            background-color: aqua;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        #output-list {
+            font-size: 20px;
+            margin-top: 30px;
+            color: green;
+            max-height: 400px;
+            overflow-y: auto; /* Scroll if too many items */
+            text-align: left;
+            display: inline-block;
+        }
+        .recognized {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>OFFLINE RECOGNIZER</h1>
+    <div id="output-list">
+        <p>Say something...</p>
+    </div>
+
+    <script>
+        const outputList = document.getElementById("output-list");
+        const evtSource = new EventSource("/stream");
+
+        evtSource.onmessage = function(event) {
+            const p = document.createElement("p");
+            p.className = "recognized";
+            p.textContent = "✅ Recognized: " + event.data;
+            outputList.appendChild(p);
+            outputList.scrollTop = outputList.scrollHeight; // Scroll to bottom
+        }
+    </script>
+</body>
+</html>
