@@ -4,13 +4,15 @@
 
 Installation :
 1. pip install sounddevice  
-2. pip install vosk  
+2. pip install vosk
+3. pip install pyttsx3
 
 Requirements : 
  ```bash
 
  pip install sounddevice  
- pip install vosk  
+ pip install vosk
+ pip install pyttsx3
 
 ```
 
@@ -25,6 +27,7 @@ Requirements :
 - **queue :** Used to safely store and transfer recognized text data between the audio callback function and the main program loop.  
 
 - **json :** Used to parse and extract recognized text from the JSON output returned by the Vosk recognizer.  
+- **Pyttsx3 :** pyttsx3 is a Python text-to-speech (TTS) library. It converts text into spoken audio using your computer’s built-in speech engines.  
 
 ---
 
@@ -54,6 +57,7 @@ Requirements :
 - ** 🔹 SoundDevice Documentation :—** <https://python-sounddevice.readthedocs.io/](https://pypi.org/project/sounddevice/>
 - ** 🔹 Queue Documentation       :—** <https://python-sounddevice.readthedocs.io/](https://pypi.org/project/sounddevice/](https://www.askpython.com/python-modules/python-queue>
 - ** 🔹 Json Documentation       :—** <https://docs.python.org/3/library/json.html>
+- ** 🔹 Pyttsx3 Documentation       :—** <https://pypi.org/project/pyttsx3/>
 
 ## 💬 Example Usage:
 
