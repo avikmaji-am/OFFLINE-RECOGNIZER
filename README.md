@@ -6,6 +6,7 @@ Installation :
 1. pip install sounddevice  
 2. pip install vosk
 3. pip install pyttsx3
+4. pip install Flask
 
 Requirements : 
  ```bash
@@ -13,6 +14,7 @@ Requirements :
  pip install sounddevice  
  pip install vosk
  pip install pyttsx3
+pip install Flask
 
 ```
 
@@ -28,6 +30,7 @@ Requirements :
 
 - **json :** Used to parse and extract recognized text from the JSON output returned by the Vosk recognizer.  
 - **Pyttsx3 :** pyttsx3 is a Python text-to-speech (TTS) library. It converts text into spoken audio using your computer’s built-in speech engines.  
+- **Flask :**  Flask is a lightweight and flexible web framework for Python. It allows you to build web applications and APIs quickly without requiring complex setup. Flask is easy to learn and provides the essentials for web development, including routing, templates, and request handling.
 
 ---
 
@@ -58,6 +61,7 @@ Requirements :
 - ** 🔹 Queue Documentation       :—** <https://python-sounddevice.readthedocs.io/](https://pypi.org/project/sounddevice/](https://www.askpython.com/python-modules/python-queue>
 - ** 🔹 Json Documentation       :—** <https://docs.python.org/3/library/json.html>
 - ** 🔹 Pyttsx3 Documentation       :—** <https://pypi.org/project/pyttsx3/>
+- ** 🔹 Flask Documentation       :—** <https://flask.palletsprojects.com/en/stable/>
 
 ## 💬 Example Usage:
 
