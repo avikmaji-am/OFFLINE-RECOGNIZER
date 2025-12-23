@@ -1,0 +1,4 @@
+Flask==2.3.2
+sounddevice==0.4.9
+vosk==0.3.52
+pyttsx3==2.90
