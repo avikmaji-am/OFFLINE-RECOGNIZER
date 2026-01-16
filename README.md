@@ -121,23 +121,65 @@
 
 
 
-## 📝 What It Does
-
-- **OFFLINE RECOGNIZER** is a Python program that listens to your microphone and converts your speech into text in real-time—without requiring an internet connection.
+# 🚀 Project Overview
 
 ---
 
-## 🔑 Key Functions:
+<div align="left">
 
-- **Real-Time Recognition :–** Captures your voice continuously and prints what you say almost instantly.
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td style="border-left: 5px solid #00D4FF; border-image: linear-gradient(to bottom, #00D4FF, #9D00FF) 1; padding-left: 20px;">
+   <h2 style="color: #00D4FF; margin: 0;">📝 What It Does</h2>
+   <br>
+   <p style="font-size: 1.1em; line-height: 1.6;">
+    <span style="color: #00D4FF; font-weight: bold;">OFFLINE RECOGNIZER</span> is a Python program that listens to your microphone and converts your speech into text in real-time—without requiring an internet connection.
+   </p>
+  </td>
+ </tr>
+</table>
 
-- **Offline Operation :–** Uses the Vosk speech recognition engine, so no cloud or internet is needed.
-
-- **Phrase-Level Output :–** Instead of giving one letter at a time, it outputs complete words and phrases.
-
-- **Easy Integration :–** Provides a Python generator (offline_recogniser()) that you can use in other projects.
+</div>
 
 ---
+
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Key" width="40" height="40" /> Key Functions
+
+> [!TIP]
+> ### 🎙️ **Real-Time Recognition**
+> **`Status: Active`** > Captures your voice continuously and prints what you say almost instantly. 
+> `Latency: <200ms`
+
+---
+
+> [!IMPORTANT]
+> ### 🔌 **Offline Operation**
+> **`Engine: Vosk`**
+> Uses the **Vosk** engine. No cloud, no internet, total privacy.
+> ```diff
+> + 100% Private
+> + 0% Data Usage
+> ```
+
+---
+
+> [!NOTE]
+> ### 📝 **Phrase-Level Output**
+> **`Output: Natural`**
+> Instead of giving one letter at a time, it outputs complete words and phrases.
+
+---
+
+> [!NOTE]
+> ### 🐍 **Easy Integration**
+> **`Feature: Python Generator`**
+> Provides `offline_recogniser()` to use in any project.
+> ```python
+> # Plug & Play
+> for text in offline_recogniser():
+>     print(f"Detected: {text}")
+> ```
 
 ---
 ## 🔗 Essential Resources
