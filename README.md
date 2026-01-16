@@ -40,31 +40,32 @@
 
 ## 📦 Description (Used Modules) :
 
-> [!NOTE]
-> ### 🔊 **sounddevice**
+---
+
+### 🔊 **sounddevice**
 > Used to capture real-time audio input from the system microphone and stream it for processing.  
 
-> [!TIP]
-> ### 🧠 **vosk**
+### 🧠 **vosk**
 > An offline speech recognition engine used to convert spoken audio into text without using the internet.  
 
-> [!IMPORTANT]
-> ### 📂 **queue**
+### 📂 **queue**
 > Used to safely store and transfer recognized text data between the audio callback function and the main program loop.  
 
-> [!WARNING]
-> ### 📄 **json**
+### 📄 **json**
 > Used to parse and extract recognized text from the JSON output returned by the Vosk recognizer.  
 
-> [!CAUTION]
-> ### 🗣️ **Pyttsx3**
+### 🗣️ **Pyttsx3**
 > pyttsx3 is a Python text-to-speech (TTS) library. It converts text into spoken audio using your computer’s built-in speech engines.  
 
-> [!TIP]
-> ### 🌐 **Flask**
+### 🌐 **Flask**
 > Flask is a lightweight and flexible web framework for Python. It allows you to build web applications and APIs quickly without requiring complex setup. Flask is easy to learn and provides the essentials for web development, including routing, templates, and request handling.
 
 ---
+
+
+## 📦 Description (Used Modules) :
+
+
 
 ## 📝 What It Does
 
