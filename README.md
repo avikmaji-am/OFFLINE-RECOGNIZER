@@ -42,28 +42,82 @@
 
 ---
 
-### 🔊 **sounddevice**
+<table border="0">
+  <tr>
+    <td bgcolor="#007BFF" width="1"></td>
+    <td>
+
+> [!NOTE]
+> ### 🔊 **sounddevice**
 > Used to capture real-time audio input from the system microphone and stream it for processing.  
+    </td>
+  </tr>
+</table>
 
-### 🧠 **vosk**
+<table border="0">
+  <tr>
+    <td bgcolor="#28A745" width="1"></td>
+    <td>
+
+> [!TIP]
+> ### 🧠 **vosk**
 > An offline speech recognition engine used to convert spoken audio into text without using the internet.  
+    </td>
+  </tr>
+</table>
 
-### 📂 **queue**
+<table border="0">
+  <tr>
+    <td bgcolor="#6F42C1" width="1"></td>
+    <td>
+
+> [!IMPORTANT]
+> ### 📂 **queue**
 > Used to safely store and transfer recognized text data between the audio callback function and the main program loop.  
+    </td>
+  </tr>
+</table>
 
-### 📄 **json**
+<table border="0">
+  <tr>
+    <td bgcolor="#007BFF" width="1"></td>
+    <td>
+
+> [!NOTE]
+> ### 📄 **json**
 > Used to parse and extract recognized text from the JSON output returned by the Vosk recognizer.  
+    </td>
+  </tr>
+</table>
 
-### 🗣️ **Pyttsx3**
+<table border="0">
+  <tr>
+    <td bgcolor="#28A745" width="1"></td>
+    <td>
+
+> [!TIP]
+> ### 🗣️ **Pyttsx3**
 > pyttsx3 is a Python text-to-speech (TTS) library. It converts text into spoken audio using your computer’s built-in speech engines.  
+    </td>
+  </tr>
+</table>
 
-### 🌐 **Flask**
-> Flask is a lightweight and flexible web framework for Python. It allows you to build web applications and APIs quickly without requiring complex setup. Flask is easy to learn and provides the essentials for web development, including routing, templates, and request handling.
+<table border="0">
+  <tr>
+    <td bgcolor="#6F42C1" width="1"></td>
+    <td>
+
+> [!IMPORTANT]
+> ### 🌐 **Flask**
+> Flask is a lightweight and flexible web framework for Python. It allows you to build web applications and APIs quickly without requiring complex setup. Flask is easy to learn and provides the essentials for web development, including routing, templates, and request handling.  
+    </td>
+  </tr>
+</table>
 
 ---
 
 
-## 📦 Description (Used Modules) :
+
 
 
 
