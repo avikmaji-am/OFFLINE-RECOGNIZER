@@ -19,20 +19,22 @@
 
 ## ▶️ How To Run?
 
-Installation :
-1. pip install sounddevice  
+<p align="left">
+  <img src="https://img.shields.io/badge/INSTALLATION-PROCESS-blue?style=for-the-badge&logo=python">
+</p>
+
+**Installation :**
+1. pip install sounddevice  
 2. pip install vosk
 3. pip install pyttsx3
 4. pip install Flask
 
-Requirements : 
+**Requirements :** 
 ```bash
-
- pip install sounddevice  
- pip install vosk
- pip install pyttsx3
+ pip install sounddevice  
+ pip install vosk
+ pip install pyttsx3
  pip install Flask
-
 ```
 
 
