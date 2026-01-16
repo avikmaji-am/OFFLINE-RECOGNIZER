@@ -38,18 +38,31 @@
 ```
 
 
-
 ## 📦 Description (Used Modules) :
 
-- **sounddevice :** Used to capture real-time audio input from the system microphone and stream it for processing.  
+> [!NOTE]
+> ### 🔊 **sounddevice**
+> Used to capture real-time audio input from the system microphone and stream it for processing.  
 
-- **vosk :** An offline speech recognition engine used to convert spoken audio into text without using the internet.  
+> [!TIP]
+> ### 🧠 **vosk**
+> An offline speech recognition engine used to convert spoken audio into text without using the internet.  
 
-- **queue :** Used to safely store and transfer recognized text data between the audio callback function and the main program loop.  
+> [!IMPORTANT]
+> ### 📂 **queue**
+> Used to safely store and transfer recognized text data between the audio callback function and the main program loop.  
 
-- **json :** Used to parse and extract recognized text from the JSON output returned by the Vosk recognizer.  
-- **Pyttsx3 :** pyttsx3 is a Python text-to-speech (TTS) library. It converts text into spoken audio using your computer’s built-in speech engines.  
-- **Flask :**  Flask is a lightweight and flexible web framework for Python. It allows you to build web applications and APIs quickly without requiring complex setup. Flask is easy to learn and provides the essentials for web development, including routing, templates, and request handling.
+> [!WARNING]
+> ### 📄 **json**
+> Used to parse and extract recognized text from the JSON output returned by the Vosk recognizer.  
+
+> [!CAUTION]
+> ### 🗣️ **Pyttsx3**
+> pyttsx3 is a Python text-to-speech (TTS) library. It converts text into spoken audio using your computer’s built-in speech engines.  
+
+> [!TIP]
+> ### 🌐 **Flask**
+> Flask is a lightweight and flexible web framework for Python. It allows you to build web applications and APIs quickly without requiring complex setup. Flask is easy to learn and provides the essentials for web development, including routing, templates, and request handling.
 
 ---
 
