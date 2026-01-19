@@ -203,13 +203,15 @@
 </p>
 ---
 
-## 💬 Example Usage:
+### 🌟 💬 Example Usage:
 
-Speak: “Hello, how are you?”
+**🗣️ Speak:** <mark>“hello world, how are you?”</mark>
 
-# Output : 
+---
+
+### 💻 # Output : 
 ```bash
-✅ Recognized: hello world 
+✅ Recognized: hello world 
 ✅ Recognized: how are you
 ```
 
