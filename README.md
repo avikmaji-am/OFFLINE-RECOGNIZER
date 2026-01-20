@@ -201,6 +201,7 @@
   <a href="https://alphacephei.com/vosk/"><img src="https://img.shields.io/badge/Vosk-Offline-FF6F00?style=for-the-badge" /></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-Web-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
 </p>
+
 ---
 
 ### 🌟 💬 Example Usage:
